@@ -1,0 +1,20 @@
+{
+    "dependencies": [
+        {
+            "name": "fs-base-aircraft-common",
+            "package_version": "0.1.61"
+        }
+    ],
+    "content_type": "AIRCRAFT",
+    "title": "747-8i AP FIX",
+    "manufacturer": "Boeing",
+    "creator": "Asobo Studio, Sarcastic-Designs-AP-Systems",
+    "package_version": "0.2",
+    "minimum_game_version": "1.7.12",
+    "release_notes": {
+        "neutral": {
+            "LastUpdate": "",
+            "OlderHistory": ""
+        }
+    },
+}
