@@ -1,0 +1,24 @@
+{
+    "content": [
+        {
+            "path": "SimObjects/Airplanes/Asobo_B747_8i/engines.cfg",
+            "size": 7130,
+            "date": 132455256903942952
+        },
+        {
+            "path": "SimObjects/Airplanes/Asobo_B747_8i/flight_model.cfg",
+            "size": 41939,
+            "date": 132459644776402142
+        },
+        {
+            "path": "SimObjects/Airplanes/Asobo_B747_8i/systems.cfg",
+            "size": 26895,
+            "date": 132459646256487944
+        },
+        {
+            "path": "SimObjects/Airplanes/Asobo_B747_8i/model/747_8I_INTERIOR.xml",
+            "size": 187507,
+            "date": 132459648071932104
+        }
+    ]
+}
